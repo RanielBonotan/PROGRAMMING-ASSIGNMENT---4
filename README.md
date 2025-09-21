@@ -4,7 +4,7 @@
 We are tasked to: a. Create a dataframe containing the following items: Name, GEAS, Electronics whose grades are over 70, and has the limitation of only Instrumentation as their track and Luzon as ther Hometown and b. Create a dataframe containing the following items: Name, Track, Electronics, an Average whose grade is greater than or equal to 55, and has the limitation of only Female as their gender and Mindanao as ther Hometown
 
 #### Problem 2 
-We are tasked to create visualization charts taht will show how different attriibutes such as tracks, gender, or hometown affect their average score.
+We are tasked to create visualization charts that will show how different attriibutes such as tracks, gender, or hometown affect their average score.
 
 Problem 1
 
@@ -47,7 +47,7 @@ Mindy # makes a name "Mindy" where it is limited to the conditions set, as well 
 ```
 
 Problem 2
-1. I first imported matplotlib so I am able to vreate visual charts for the dataframe
+1. I first imported matplotlib so I am able to create visual charts for the dataframe
 ```python
 import matplotlib.pyplot as plt
 ```
